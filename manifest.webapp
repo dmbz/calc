@@ -1,7 +1,7 @@
 {
-  "version": "0.4b",
-  "name": "Clock MB",
-  "description": "Reloj",
+  "version": "0.1a",
+  "name": "Calc MB",
+  "description": "Calculadora",
   "launch_path": "/index.html",
   "icons": {
     "32": "/images/icon-32.png",
